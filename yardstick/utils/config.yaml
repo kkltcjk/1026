@@ -1,0 +1,7 @@
+general:
+    directories:
+        dir_yardstick_conf:     /etc/yardstick/
+        dir_releng:             /home/opnfv/repos/releng/
+
+    file:
+        creds:                  /etc/yardstick/openstack.creds
